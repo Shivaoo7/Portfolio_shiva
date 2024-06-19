@@ -3,7 +3,7 @@ body{
 }
 .bgimage {
     height:100vh;
-    background: url('images/bg2.jpg');
+    background: url('bg2.jpg');
     background-size:cover;
     position:relative;
     color: #fff;
